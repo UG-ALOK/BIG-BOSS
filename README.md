@@ -79,3 +79,4 @@ Use this software only on systems and networks you own or have permission to tes
 ## Developer
 
 **UG ALOk**
+![MANIFEST SECURITY Screenshot](Screenshot_20261012-204419_Termux.png)
