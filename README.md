@@ -21,10 +21,10 @@ Security-Project/
 ## Installation
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/UG-ALOK/BIG-BOSS.git
 ```
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd BIG-BOSS
 ```
 ```bash
 chmod +x install.sh
@@ -78,4 +78,4 @@ Use this software only on systems and networks you own or have permission to tes
 
 ## Developer
 
-UG ALOK
+**UG ALOk**
