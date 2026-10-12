@@ -5,18 +5,8 @@
 
 ## Overview
 
-This project is intended for educational purposes only.
+**This project is intended for educational purposes only**
 
-## Project Structure
-
-```text
-Security-Project/
-├── security.py
-├── install.sh
-├── README.md
-├── DISCLAIMER.md
-└── .venv/
-```
 
 ## Installation
 
@@ -66,10 +56,10 @@ Server Status: Running
 Request Status: 200 OK
 Client IP: XXX.XXX.XXX.XXX
 Request URL: http://XXX
-Browser: Detected
+Browser: Detected**
 ```
 
-The output above is illustrative only. Actual fields depend on the application implementation and the incoming request.
+**The output above is illustrative only. Actual fields depend on the application implementation and the incoming request**
 
 ## Disclaimer
 **⚠️This project is for educational purposes only.
