@@ -72,7 +72,7 @@ Browser: Detected
 The output above is illustrative only. Actual fields depend on the application implementation and the incoming request.
 
 ## Disclaimer
-**This project is for educational purposes only.
+**⚠️This project is for educational purposes only.
 I am not responsible for any illegal activity or misuse of this project.
 Use this software only on systems and networks you own or have permission to test**
 
